@@ -5,7 +5,7 @@
 .venv
 __pycache__
 
-# allure
+# allure|
 allure-results
 allure-report
 
